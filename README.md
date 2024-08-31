@@ -9,3 +9,20 @@ O ONE(Oracle Next Education) é um programa de educação e empregabilidade com 
 > ✔ Desafios para aplicação prática  
 > ✔ Conexão com empresas  
 > ✔ Comunidade de ex-alunos  
+
+---
+---
+### 🚦 Guia Rápido
+<!-- Tag centralizadora das Badges -->
+<p float="center">
+
+[<img src="https://img.shields.io/badge/Fase-Seleção Turma 7 do ONE-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39?pane=issue&itemId=77586984)
+[<img src="https://img.shields.io/badge/Trilha-Desenvolvimento Pessoal-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39?pane=issue&itemId=77587810)
+[<img src="https://img.shields.io/badge/Trilha-Iniciante em Programação-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39?pane=issue&itemId=77600963)
+[<img src="https://img.shields.io/badge/Fase-Especialização-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39/views/1?pane=issue&itemId=77684688)
+
+</p>
+---
+---
+
+
