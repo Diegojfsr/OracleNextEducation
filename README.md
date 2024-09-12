@@ -31,8 +31,9 @@ O ONE(Oracle Next Education) é um programa de educação e empregabilidade com 
 > ✅ [Fase de selecao turma](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/FaseSelecaoTurma7.md)  
 > ✅ [Trilha desenvolvimento pessoal](https://)  
 > ✅ [Trilha iniciante programação](https://)  
-> [Fase especialização](https://)  
-> [Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira](https://)  
+> ✅ [Fase especialização](https://)  
+> [Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira](https://)
+> [Formação-Formação FrontEnd](https://)  
 
  ### 🤝 Contribuindo </h2>
 
