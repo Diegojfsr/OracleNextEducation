@@ -12,7 +12,7 @@ O ONE(Oracle Next Education) é um programa de educação e empregabilidade com 
 
 ---
 ---
-### 🚦 Guia Rápido
+### 🚦 Guia de Acesso Rápido
 <!-- Tag centralizadora das Badges -->
 <p float="center">
 
@@ -21,7 +21,7 @@ O ONE(Oracle Next Education) é um programa de educação e empregabilidade com 
 [<img src="https://img.shields.io/badge/Trilha-Iniciante Programação-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39?pane=issue&itemId=77600963)
 [<img src="https://img.shields.io/badge/Fase-Especialização-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39/views/1?pane=issue&itemId=77684688)
 [<img src="https://img.shields.io/badge/Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39?pane=issue&itemId=78221710)
-
+[<img src="https://img.shields.io/badge/Formação-Formação FrontEnd-12100E?style=for-the-badge&logo=About&logoColor=white" height="30"></a>](https://github.com/users/Diegojfsr/projects/39?pane=issue&itemId=78221710)
 </p>
 
 ---
@@ -32,7 +32,7 @@ O ONE(Oracle Next Education) é um programa de educação e empregabilidade com 
 > ✅ [Trilha desenvolvimento pessoal](https://)  
 > ✅ [Trilha iniciante programação](https://)  
 > ✅ [Fase especialização](https://)  
-> [Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira](https://)
+> [Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira](https://)  
 > [Formação-Formação FrontEnd](https://)  
 
  ### 🤝 Contribuindo </h2>
