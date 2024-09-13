@@ -26,3 +26,4 @@
 > [Video-Alura Live #51 - Hábitos: como ser mais produtivo? - YouTube](https://youtu.be/yfcgz3Ivs6g)  
 > [Artigo-Hábitos: Como melhorá-los | Alura Cursos Online](https://www.alura.com.br/artigos/habitos-como-melhora-los)  
 > [Video-Hábitos de estudos - Alura Live #48 - YouTube](https://youtu.be/a84Hd9c1_sw)
+
