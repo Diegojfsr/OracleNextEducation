@@ -28,11 +28,11 @@ O ONE(Oracle Next Education) é um programa de educação e empregabilidade com 
 ---
 ### Etapas passo a passo
 
-> ✅ [Fase de selecao turma](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/FaseSelecaoTurma7.md)  
-> ✅ [Trilha desenvolvimento pessoal](https://)  
-> ✅ [Trilha iniciante programação](https://)  
-> ✅ [Fase especialização](https://)  
-> [Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira](https://)  
+> ✅ [Fase de Selecao Turma](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/FaseSelecaoTurma7.md)  
+> ✅ [Trilha Desenvolvimento Pessoal](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/TrilhaDesenvolvimentoPessoal.md)  
+> ✅ [Trilha Iniciante Programação](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/TrilhaInicianteProgramacao.md)  
+> ✅ [Fase Especialização](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/FaseEspecializacao.md)  
+> [Formação-Empreendedorismo, Agilidade e Protagonismo na Carreira](https://github.com/Diegojfsr/OracleNextEducation/blob/main/GuiaRapido/FormacaoEmpreendedorismoagilidadeProtagonismo.md)  
 > [Formação-Formação FrontEnd](https://)  
 
  ### 🤝 Contribuindo </h2>
